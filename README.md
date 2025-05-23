@@ -18,7 +18,3 @@ Estado<br>
 <br>
 ##Tratamento básico de erros (ex: CEP inválido)<br>
 <br>
-##🚀 Como Executar<br>
-Clone o repositório;<br>
-Instale as dependências;<br>
-Execute o app;<br>
